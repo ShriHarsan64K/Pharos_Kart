@@ -10,7 +10,7 @@
 | Name | Register Number | Role |
 |---|---|---|
 | Shri Harsan M | RA2512052010014 | Data Engineering & Pipeline Architecture |
-| Madhusudhanan G | RA2512052010004 | Spark Processing & Warehouse Design |
+| Madhusuthanan G | RA2512052010004 | Spark Processing & Warehouse Design |
 | Pharos Sophy Samuel TJ | RA25120520018 | Kafka Streaming & Security Layer |
 
 ---
