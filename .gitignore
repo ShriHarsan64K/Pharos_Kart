@@ -1,0 +1,21 @@
+# Data files (too large for git)
+data/raw/weblogs/weblogs.json
+data/raw/transactions/transactions.csv
+data/raw/reviews/reviews.json
+data/raw/social/social.json
+data/processed/
+data/output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
