@@ -12,7 +12,7 @@
 | Shri Harsan M | RA2512052010014 | Data Engineering & Pipeline Architecture |
 | Madhusudhanan G | RA2512052010004 | Spark Processing & Warehouse Design |
 | Pharos Sophy Samuel TJ | RA25120520018 | Kafka Streaming & Security Layer |
-| Donald | RA2512052010059 | Data Lake & HDFS Management |
+| Donald Mathew Sajan | RA2512052010058 | Data Lake & HDFS Management |
 | ArunDas | RA2512052010011 | Data Generation & Analytics |
 
 ---
